@@ -11,6 +11,4 @@ Frameworks	Node.js, Express, ESX (voor FiveM)<br/>
 Tools & IDEs	Visual Studio Code, Git, Discord Developer Portal<br/>
 Platforms	FiveM, Discord API, Web (HTML/CSS/JS)<br/>
 
-🌐 Website: [l-scripts.nl](https://l-scripts.nl/)<br/>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YT-Trekz&show_icons=true&theme=radical" alt="GitHub stats" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YT-Trekz&layout=compact&theme=radical" alt="Top Languages" height="180px" /> </p>
