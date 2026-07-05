@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/YT-Trekz">
+    <img height="20" src="https://img.shields.io/github/followers/YT-Trekz?label=follow&color=blue&logo=github&style=flat" />
+  </a>
+  <img height="20" src="https://komarev.com/ghpvc/?username=YT-Trekz&color=blue&logo=github&style=flat" />
+</p>
+
 # 👋 Hallo! Mijn naam is Lommel - Andy
 
 Een gepassioneerde developer gespecialiseerd in gaming-communities, webontwikkeling en automatisering.
