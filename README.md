@@ -5,13 +5,13 @@
   <img height="20" src="https://komarev.com/ghpvc/?username=YT-Trekz&color=blue&logo=github&style=flat" />
 </p>
 
-# 👋 Hallo! Mijn naam is Lommel - Andy
+# 👋 Hallo! Mijn naam is Andy
 
 Een gepassioneerde developer gespecialiseerd in gaming-communities, webontwikkeling en automatisering.
 
 ---
 
-## 🚀 Wat ik doe
+## Wat ik doe
 
 *   **🎮 FiveM Scripter:** Bouwen en onderhouden van innovatieve scripts (ESX/QB) om de spelervaring te optimaliseren.
 *   **🌐 Web Developer:** Ontwikkelen en optimaliseren van snelle, responsieve websites.
@@ -20,7 +20,7 @@ Een gepassioneerde developer gespecialiseerd in gaming-communities, webontwikkel
 
 ---
 
-## 💻 Vaardigheden & Tools
+## Vaardigheden & Tools
 
 | Categorie | Technologieën & Tools |
 | :--- | :--- |
@@ -31,7 +31,7 @@ Een gepassioneerde developer gespecialiseerd in gaming-communities, webontwikkel
 
 ---
 
-## 🔗 Connect met mij
+## Mijn socials
 https://l-scripts.nl/ <br>
 https://discord.com/invite/brpE7cGqdV
 
